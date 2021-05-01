@@ -19,4 +19,4 @@ $ zsh build.sh
 ```
 
 ## 単語の検索
-PopClipを起動して単語を選択すると、新たに物書堂の辞書アプリのアイコン（ <img style="height: 1em;" src="https://cdn.rpaka.dev/useimage/popclip-monokakido/Dictionary.png" /> ）が追加されているのでそれをクリックすると物書堂の辞書アプリで検索結果が表示されます。
+PopClipを起動して単語を選択すると、新たに物書堂の辞書アプリのアイコンが追加されているのでそれをクリックすると物書堂の辞書アプリで検索結果が表示されます。
