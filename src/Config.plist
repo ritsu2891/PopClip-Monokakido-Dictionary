@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>Dictionary.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,}$</string>
+			<key>Title</key>
+			<string>辞書</string>
+			<key>URL</key>
+			<string>mkdictionaries:///?text={popclip text}</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search words on &quot;Dictionary&quot; app by Monokakido.</string>
+	<key>Extension Identifier</key>
+	<string>dev.rpaka.extension.monokakido-dictionary</string>
+	<key>Extension Name</key>
+	<string>Monokakido-Dectionary</string>
+	<key>Options</key>
+	<array/>
+	<key>Options Title</key>
+	<dict/>
+	<key>Required Software Version</key>
+	<integer>693</integer>
+</dict>
+</plist>
